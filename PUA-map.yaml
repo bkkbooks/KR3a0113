@@ -1,0 +1,25 @@
+text_id: KR3a0113
+total_unique: 21
+total_occurrences: 34
+entries:
+- {kr: KR0008, char: 􅀈, codepoint: U+105008, count: 2}
+- {kr: KR0187, char: 􅂻, codepoint: U+1050BB, count: 1}
+- {kr: KR0188, char: 􅂼, codepoint: U+1050BC, count: 1}
+- {kr: KR0310, char: 􅄶, codepoint: U+105136, count: 1}
+- {kr: KR0343, char: 􅅗, codepoint: U+105157, count: 1}
+- {kr: KR0360, char: 􅅨, codepoint: U+105168, count: 1}
+- {kr: KR0388, char: 􅆄, codepoint: U+105184, count: 1}
+- {kr: KR0467, char: 􅇓, codepoint: U+1051D3, count: 1}
+- {kr: KR0533, char: 􅈕, codepoint: U+105215, count: 3}
+- {kr: KR0534, char: 􅈖, codepoint: U+105216, count: 1}
+- {kr: KR0563, char: 􅈳, codepoint: U+105233, count: 1}
+- {kr: KR0575, char: 􅈿, codepoint: U+10523F, count: 4}
+- {kr: KR0604, char: 􅉜, codepoint: U+10525C, count: 1}
+- {kr: KR0627, char: 􅉳, codepoint: U+105273, count: 2}
+- {kr: KR0822, char: 􅌶, codepoint: U+105336, count: 1}
+- {kr: KR1103, char: 􅑏, codepoint: U+10544F, count: 2}
+- {kr: KR1159, char: 􅒇, codepoint: U+105487, count: 2}
+- {kr: KR1241, char: 􅓙, codepoint: U+1054D9, count: 2}
+- {kr: KR1367, char: 􅕗, codepoint: U+105557, count: 2}
+- {kr: KR1621, char: 􅙕, codepoint: U+105655, count: 2}
+- {kr: KR1814, char: 􅜖, codepoint: U+105716, count: 2}
